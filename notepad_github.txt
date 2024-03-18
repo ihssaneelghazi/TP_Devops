@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemple de HTML avec CSS</title>
+    <link rel="stylesheet" href="style_git.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Bienvenue sur notre site</h1>
+        <p>Ceci est un exemple de contenu avec HTML et CSS.</p>
+        <button>Cliquez ici pour plus d'infos</button>
+        <p>Ceci est un exemple de contenu avec HTML et CSS.</p>
+    
+    </div>
+</body>
+</html>
